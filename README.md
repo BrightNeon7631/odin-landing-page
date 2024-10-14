@@ -44,5 +44,5 @@ I started and finished this project in June 2022.
 ## Deployment
 
 ```bash
-  git clone
+  git clone https://github.com/BrightNeon7631/odin-landing-page.git
 ```
