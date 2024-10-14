@@ -20,9 +20,7 @@ I started and finished this project in June 2022.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/odin-landing-page/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-odin-landing-page.pages.dev)
 
 ## Screenshots
 
